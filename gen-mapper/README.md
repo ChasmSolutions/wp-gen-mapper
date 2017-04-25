@@ -1,5 +1,5 @@
 # gen-mapper
-Wordpress Plugin based on the App for mapping generations of simple churches
+App for mapping generations of simple churches
 
 ## Usage
 The app can be found [here](https://dvopalecky.github.io/gen-mapper).
